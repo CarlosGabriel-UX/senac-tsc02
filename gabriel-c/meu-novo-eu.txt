@@ -1,7 +1,5 @@
 aqui existe meu texto
-
-<<<<<<< HEAD
-
-=======
+novo arquivo
 hihi
->>>>>>> a34545dd4dcae7f30a3f764a8c81c38e2696a0d5
+
+leia isso
